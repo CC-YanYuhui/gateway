@@ -4,7 +4,13 @@ Gateway是[上海骞云信息科技有限公司](http://www.cloudchef.io/)研发
 
 ## 一、架构图
 
+<<<<<<< HEAD
 ![gateway README](C:\Users\lenovo\Desktop\gateway README.png)
+=======
+![avatar](https://github.com/CC-YanYuhui/gateway/blob/main/img/gateway%20README.png?raw=true)
+
+
+>>>>>>> 091cbe2... ProxyAgent源码提交
 
 ## 二、工作原理
 
